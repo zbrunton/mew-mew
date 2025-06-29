@@ -1,4 +1,4 @@
 # mew-mew
 Messing around w/ muons
 
-first commit from terminal
+First commit from terminal!
